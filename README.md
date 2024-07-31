@@ -1,2 +1,3 @@
 # Bandersnatch
-My personal repository
+About me:
+I'm a passionate data scientist with a knack for predictive analytics
